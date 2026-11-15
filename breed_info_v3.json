@@ -1,0 +1,402 @@
+{
+ "amritmahal": {
+  "name": "Amritmahal",
+  "home_tract": "Karnataka",
+  "main_use": "Transport and draught",
+  "features": "Mysore-type; grey, from almost white to near black; long horns ending in sharp black points, rising upward and backward.",
+  "notes": "",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "ayrshire": {
+  "name": "Ayrshire (exotic)",
+  "home_tract": "Ayrshire, Scotland (not an Indian breed)",
+  "main_use": "Milk",
+  "features": "Red/brown and white patched dairy breed.",
+  "notes": "Exotic breed, used in India mainly for crossbreeding.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "bachaur": {
+  "name": "Bachaur",
+  "home_tract": "Bihar",
+  "main_use": "Draught",
+  "features": "Grey or greyish white; coffin-shaped skull.",
+  "notes": "Bullocks can work long periods; thrives on poor fodder.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "badri": {
+  "name": "Badri",
+  "home_tract": "Uttarakhand (hill districts)",
+  "main_use": "Milk and draught",
+  "features": "Small (200-250 kg); black, brown, red, white or grey; horns curved upward and inward; prominent hump.",
+  "notes": "First registered cattle breed of Uttarakhand; well adapted to hilly terrain.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "bargur": {
+  "name": "Bargur",
+  "home_tract": "Tamil Nadu",
+  "main_use": "Draught",
+  "features": "Mysore-type, evolved from Hallikar; mainly red.",
+  "notes": "Reared in forest areas.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "bhelai": {
+  "name": "Belahi",
+  "home_tract": "Haryana and Chandigarh",
+  "main_use": "Milk and draught",
+  "features": "Medium sized; face and extremities typically white; small to medium hump.",
+  "notes": "Also called Morni; migratory hill-foot cattle.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "dangi": {
+  "name": "Dangi",
+  "home_tract": "Maharashtra and Gujarat",
+  "main_use": "Draught",
+  "features": "Short horns; spotted coat; oily skin secretion.",
+  "notes": "Adapted to heavy rainfall and hilly tracts.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "deoni": {
+  "name": "Deoni",
+  "home_tract": "Maharashtra and Karnataka",
+  "main_use": "Milk and draught",
+  "features": "Heavily built; usually spotted black and white; pendulous dewlap.",
+  "notes": "Average milk about 868 kg per lactation, fat about 4.3%.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "gangatari": {
+  "name": "Gangatiri",
+  "home_tract": "Bihar and Uttar Pradesh",
+  "main_use": "Milk and draught",
+  "features": "White or light grey.",
+  "notes": "Also known as Shahabadi or Eastern Hariana.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "gaolao": {
+  "name": "Gaolao",
+  "home_tract": "Maharashtra and Madhya Pradesh",
+  "main_use": "Milk and draught",
+  "features": "White or light grey (males grey over the neck); short horns; almond-shaped eyes set at an angle.",
+  "notes": "Fast trotter.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "ghumsari": {
+  "name": "Ghumusari",
+  "home_tract": "Odisha (Ganjam, Phulbani)",
+  "main_use": "Draught",
+  "features": "Small, docile local cattle.",
+  "notes": "Excellent heat and drought tolerance.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "gir": {
+  "name": "Gir",
+  "home_tract": "Gujarat",
+  "main_use": "Milk",
+  "features": "Domed (convex) forehead; long drooping leaf-like ears; curved half-moon horns; red to speckled coat.",
+  "notes": "One of India's best-known dairy breeds; hardy and disease resistant.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "hallikar": {
+  "name": "Hallikar",
+  "home_tract": "Karnataka",
+  "main_use": "Draught",
+  "features": "Mysore-type; grey to dark grey; long pointed backward-curving horns.",
+  "notes": "Regarded as the best draught breed of South India.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "hariana": {
+  "name": "Hariana",
+  "home_tract": "Haryana, Uttar Pradesh, Rajasthan",
+  "main_use": "Milk and draught",
+  "features": "White or light grey; short horns; coffin-shaped skull.",
+  "notes": "Well-known dual-purpose breed of North India.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "himachalipahari": {
+  "name": "Himachali Pahari",
+  "home_tract": "Himachal Pradesh (mid to high hills)",
+  "main_use": "Milk and draught",
+  "features": "Black or blackish brown; compact cylindrical body; short legs; medium hump; horizontal ears.",
+  "notes": "About 1-3 kg milk per day (350-650 kg per lactation).",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "kangayam": {
+  "name": "Kangayam",
+  "home_tract": "Tamil Nadu",
+  "main_use": "Draught",
+  "features": "Calves red at birth, turning grey by about 6 months; bulls grey with darker hump and quarters.",
+  "notes": "Strong, hardy draught breed.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "kankrej": {
+  "name": "Kankrej",
+  "home_tract": "Gujarat and Rajasthan",
+  "main_use": "Milk and draught",
+  "features": "Large, heavy breed; large lyre-shaped horns; silver-grey to iron-grey.",
+  "notes": "Known for its distinctive 'sawai chal' gait.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "kenkatha": {
+  "name": "Kenkatha",
+  "home_tract": "Uttar Pradesh and Madhya Pradesh",
+  "main_use": "Draught",
+  "features": "Small, sturdy; grey or white; horns directed forward.",
+  "notes": "Fairly powerful for its size.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "khariar": {
+  "name": "Khariar",
+  "home_tract": "Odisha (Nuapada)",
+  "main_use": "Draught",
+  "features": "Small, well-balanced sturdy body; tail ends in a thick black switch.",
+  "notes": "Docile; hardy with natural disease resistance.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "kherigarh": {
+  "name": "Kherigarh",
+  "home_tract": "Uttar Pradesh",
+  "main_use": "Draught",
+  "features": "White coat, some grey especially on the face; upstanding horns curving outward and upward.",
+  "notes": "",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "khillari": {
+  "name": "Khillari",
+  "home_tract": "Maharashtra and Karnataka",
+  "main_use": "Draught",
+  "features": "Grey-white; long sweeping pointed horns.",
+  "notes": "Fast and powerful bullocks; related to Hallikar/Amritmahal.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "konkankapila": {
+  "name": "Konkan Kapila",
+  "home_tract": "Maharashtra and Goa (Konkan)",
+  "main_use": "Draught",
+  "features": "Various coats, mostly reddish brown or black; horns go upward and backward with pointed tips.",
+  "notes": "Low milk (about 2.25 kg/day); good draught power in hilly, hot and humid terrain.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "kosali": {
+  "name": "Kosali",
+  "home_tract": "Chhattisgarh",
+  "main_use": "Draught",
+  "features": "Small; mostly light red, also white or black; small stumpy horns; horizontal ears.",
+  "notes": "First registered breed of Chhattisgarh; efficient workers, high disease resistance.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "krishnavalley": {
+  "name": "Krishna Valley",
+  "home_tract": "Karnataka and Maharashtra",
+  "main_use": "Draught",
+  "features": "White or grey; large frame.",
+  "notes": "",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "ladakhi": {
+  "name": "Ladakhi",
+  "home_tract": "Ladakh (Jammu and Kashmir)",
+  "main_use": "Draught",
+  "features": "Small and short; black or brown.",
+  "notes": "Adapted to high altitude, cold and low oxygen.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "lakhimi": {
+  "name": "Lakhimi",
+  "home_tract": "Assam",
+  "main_use": "Milk and draught",
+  "features": "Small; mainly brown or grey; medium hump; short limbs.",
+  "notes": "Heat tolerant, disease resistant, survives on scarce feed; bullocks used in paddy cultivation.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "malnadgidda": {
+  "name": "Malnad Gidda",
+  "home_tract": "Karnataka (Malnad hills)",
+  "main_use": "Draught",
+  "features": "Dwarf cattle.",
+  "notes": "Hardy hill cattle of the Western Ghats.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "malvi": {
+  "name": "Malvi",
+  "home_tract": "Madhya Pradesh (Malwa)",
+  "main_use": "Draught",
+  "features": "Grey-white; lyre-shaped horns; horizontally held ears.",
+  "notes": "",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "mewati": {
+  "name": "Mewati",
+  "home_tract": "Rajasthan, Haryana and Uttar Pradesh",
+  "main_use": "Draught",
+  "features": "White or grey; short horns.",
+  "notes": "Also called Kosi.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "motu": {
+  "name": "Motu",
+  "home_tract": "Odisha (Malkangiri), Chhattisgarh, Andhra Pradesh",
+  "main_use": "Draught",
+  "features": "Small, strong; mainly reddish brown, sometimes grey; short straight upward horns.",
+  "notes": "Reared by Koya tribals; docile.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "nagori": {
+  "name": "Nagori",
+  "home_tract": "Rajasthan",
+  "main_use": "Draught",
+  "features": "White or grey; narrow, long face.",
+  "notes": "Valued as fast-trotting bullocks.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "nari": {
+  "name": "Nari",
+  "home_tract": "Rajasthan and Gujarat",
+  "main_use": "Milk and draught",
+  "features": "Spirally curved horns.",
+  "notes": "Native to Sirohi, Pali, Sabarkantha and Banaskantha.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "nimari": {
+  "name": "Nimari",
+  "home_tract": "Madhya Pradesh",
+  "main_use": "Draught",
+  "features": "Red with white patches; copper-coloured muzzle.",
+  "notes": "",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "ongole": {
+  "name": "Ongole",
+  "home_tract": "Andhra Pradesh",
+  "main_use": "Milk and draught",
+  "features": "Large, muscular; white or light grey; short stumpy horns; large dewlap.",
+  "notes": "Also called Nellore; hardy and disease resistant.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "podathirupu": {
+  "name": "Poda Thurpu",
+  "home_tract": "Telangana (Nagarkurnool)",
+  "main_use": "Milk and draught",
+  "features": "Medium sized with compact body.",
+  "notes": "Excellent long migration over forest terrain; mainly draught.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "ponwar": {
+  "name": "Ponwar",
+  "home_tract": "Uttar Pradesh",
+  "main_use": "Draught",
+  "features": "Long upstanding horns.",
+  "notes": "Hill-tract cattle.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "pulikulam": {
+  "name": "Pulikulam",
+  "home_tract": "Tamil Nadu (Madurai region)",
+  "main_use": "Draught and game (Jallikattu)",
+  "features": "Small; grey to dark grey; well-developed hump.",
+  "notes": "Kept in large migratory herds; used for penning fields and Jallikattu.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "punganur": {
+  "name": "Punganur",
+  "home_tract": "Andhra Pradesh (Chittoor)",
+  "main_use": "Milk and draught",
+  "features": "Dwarf; short crescent horns; large hanging dewlap.",
+  "notes": "Milk with high fat (about 8%).",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "purnea": {
+  "name": "Purnea",
+  "home_tract": "Bihar (Araria, Purnea, Katihar)",
+  "main_use": "Milk and draught",
+  "features": "Medium hump; small to medium dewlap; mostly flat poll.",
+  "notes": "",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "rathi": {
+  "name": "Rathi",
+  "home_tract": "Rajasthan",
+  "main_use": "Milk",
+  "features": "White or grey with patches; short horns.",
+  "notes": "Good milker of the arid region.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "redkandhari": {
+  "name": "Red Kandhari",
+  "home_tract": "Maharashtra",
+  "main_use": "Draught",
+  "features": "Deep dark red to brown.",
+  "notes": "",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "redsindhi": {
+  "name": "Red Sindhi",
+  "home_tract": "Organised farms in India (origin: Sindh)",
+  "main_use": "Milk",
+  "features": "Distinct red, darker than Sahiwal; pendulous dewlap.",
+  "notes": "Heat tolerant; average about 1840 kg milk per lactation.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "sahiwal": {
+  "name": "Sahiwal",
+  "home_tract": "Punjab and Rajasthan",
+  "main_use": "Milk",
+  "features": "Reddish brown; loose skin; heavy dewlap; long tail.",
+  "notes": "Considered the best indigenous dairy breed.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "shwetakapila": {
+  "name": "Shweta Kapila",
+  "home_tract": "Goa (North and South Goa)",
+  "main_use": "Milk",
+  "features": "Completely white, from muzzle to tail.",
+  "notes": "Average 510 kg milk per lactation with high fat (about 5.2%); suited to hot, humid weather.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "siri": {
+  "name": "Siri",
+  "home_tract": "Sikkim and West Bengal hills",
+  "main_use": "Draught",
+  "features": "Small; black-and-white or brown-and-white patches; hump with a tuft of hair.",
+  "notes": "Hill draught breed.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "tharparkar": {
+  "name": "Tharparkar",
+  "home_tract": "Gujarat and Rajasthan",
+  "main_use": "Milk and draught",
+  "features": "White or light grey; lyre-shaped horns.",
+  "notes": "Also called White Sindhi; very hardy in arid conditions.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "thutho": {
+  "name": "Thutho",
+  "home_tract": "Nagaland",
+  "main_use": "Draught and meat",
+  "features": "Medium, well-built; mostly black (bulls darker); about 40% have white face spots.",
+  "notes": "Hardy and docile; low milk (0.5-1.5 kg/day).",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "umblachery": {
+  "name": "Umblachery",
+  "home_tract": "Tamil Nadu",
+  "main_use": "Draught",
+  "features": "White star on the face, white socks below the hocks, white hooves.",
+  "notes": "Suited to marshy delta paddy fields.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "vechur": {
+  "name": "Vechur",
+  "home_tract": "Kerala",
+  "main_use": "Milk and manure",
+  "features": "Very small.",
+  "notes": "Among the smallest humped cattle in the world.",
+  "source": "NDDB / ICAR-NBAGR"
+ },
+ "dagri": {
+  "name": "Dagri",
+  "home_tract": "Gujarat (Dahod, Chhotaudepur)",
+  "main_use": "Draught",
+  "features": "Mostly white, sometimes grey; small; horns curved upward-outward; small horizontal ears.",
+  "notes": "Low feed need, survives mainly on grazing; also called Gujarat Malvi.",
+  "source": "NDDB / ICAR-NBAGR"
+ }
+}
